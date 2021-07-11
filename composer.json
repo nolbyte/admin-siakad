@@ -2,7 +2,6 @@
     "require": {
         "ramsey/uuid": "^4.1",
         "wixel/gump": "^1.12",
-        "phpoffice/phpspreadsheet": "^1.18",
-        "twbs/bootstrap": "5.0.2"
+        "phpoffice/phpspreadsheet": "^1.18"
     }
 }
